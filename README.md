@@ -1,0 +1,2 @@
+# geminni
+Arthetic ai 
